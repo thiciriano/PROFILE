@@ -20,4 +20,8 @@ Estou sempre em busca de aprender coisas novas e compartilhar conhecimentos com 
 
 ![Linux](https://img.shields.io/badge/linux-151747?style=for-the-badge&logo=linux)
 
-![HTML](https://img.shields.io/badge/html-FF5C00?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/HTML-FF5C00?style=for-the-badge&logo=HTML)
+
+![CSS](https://img.shields.io/badge/CSS-87CEFA?style=for-the-badge&logo=CSS)
+
+![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript)
